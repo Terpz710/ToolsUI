@@ -1,0 +1,11 @@
+name: ToolsUI
+version: 1.0.0
+author: Terpz710
+api: 5.0.0
+main: Terpz710\ToolsUI\Main
+description: Use a UI to rename items and repair them.
+
+permissions:
+  toolsui.cmd:
+    description: "allows the user to remame and repair their items"
+    default: true

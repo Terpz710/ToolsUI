@@ -1,0 +1,39 @@
+# Made by Terpz710
+
+# October 28, 2023 6:37pm PST
+
+# RenameUI settings
+rename_form_title: "RenameUI"
+rename_form_content: "Click rename or repair to get started"
+rename_button_text: "Rename"
+repair_button_text: "Repair"
+
+# Custom Rename Form
+custom_rename_form_title: "Rename"
+new_name_input_label: "Enter the name here"
+new_name_input_placeholder: "Item Name"
+
+# Confirmation Form
+confirmation_form_title: "Rename Confirmation"
+confirmation_form_content: "Do you want to rename the item to §e{newName}§r§f for §a${Price}§f"
+confirmation_form_button_yes: "Yes"
+confirmation_form_button_no: "No"
+
+# Repair Confirmation Form
+repair_confirmation_form_title: "Repair Confirmation"
+repair_confirmation_form_content: "Do you want to repair the item for §a${Price}§f"
+repair_confirmation_button_yes: "Yes"
+repair_confirmation_button_no: "No"
+
+# Economy settings
+enable_economy: true
+rename_fee: 50000
+repair_fee: 10000
+
+# Messages
+invalid_name_message: "§cPlease enter a valid name to rename the item"
+item_renamed_message: "Item renamed to: §e{itemName}"
+not_enough_money_message: "§cYou don't have enough money to rename the item"
+not_enough_money_repair_message: "§cYou don't have enough money to repair the item"
+repair_success_message: "Item repaired successfully"
+not_repairable_item_message: "§cYou are not holding a repairable item"
