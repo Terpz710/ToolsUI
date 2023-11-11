@@ -1,6 +1,6 @@
 <?php
 
-namespace Terpz710\RenameUI\Command;
+namespace Terpz710\ToolsUI\Command;
 
 use pocketmine\command\Command;
 use pocketmine\command\CommandSender;
